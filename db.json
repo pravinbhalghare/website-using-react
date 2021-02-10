@@ -1,0 +1,155 @@
+{
+  "dishes": [
+    {
+      "id": 0,
+      "name": "Cow Milk",
+      "image": "images/cow_milk.jpg",
+      "category": "milk",
+      "label": "Hot",
+      "price": "38rs/l",
+      "featured": true,
+      "description": "Milk Has Something for Everyone. Milk Is Good for You. DRINK IT! Milk is Not Just for Kids."
+    },
+    {
+      "id": 1,
+      "name": "buffelo milk",
+      "image": "images/buffelo_milk.jpg",
+      "category": "appetizer",
+      "label": "",
+      "price": "1.99",
+      "featured": false,
+      "description": "It is richer in calcium and protein than cow's milk, and has less cholesterol and sodium. Buffalo milk is great for healthy bones, dental health and cardiovascular health. It is also a good source of minerals, such as magnesium, potassium and phosphorus."
+    },
+    {
+      "id": 2,
+      "name": "malai paneer",
+      "image": "images/paneer.jpg",
+      "category": "appetizer",
+      "label": "New",
+      "price": "1.99",
+      "featured": false,
+      "description": "Paneer is of great value in diet, especially in the Indian vegetarian context, because it contains a fairly high level of fat and proteins as well as some minerals, especially calcium and phosphorus. It is also a good source of fat soluble vitamins A and D. So its food and nutritive value is fairly high."
+    },
+    {
+      "id": 3,
+      "name": "cow ghee",
+      "image": "images/cow_ghee.jpg",
+      "category": "dessert",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "cow ghee is ultimate in its pure quality and is advantageous to your whole family."
+    },
+    {
+      "id": 4,
+      "name": "buffelo ghee",
+      "image": "images/buffelo_ghee.jpg",
+      "category": "dessert",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "buffelo ghee is ultimate in its pure quality and is advantageous to your whole family."
+    },
+    {
+      "id": 5,
+      "name": "shrikhand",
+      "image": "images/shrikand.jpg",
+      "category": "dessert",
+      "label": "",
+      "price": "2.99",
+      "featured": false,
+      "description": "A Delicious Fermented Dairy Product of India"
+    }
+  ],
+  "comments": [
+    {
+      "dishId": 5,
+      "rating": "5",
+      "author": "pravin",
+      "comment": "delicious shrikhand ",
+      "date": "2021-02-10T07:22:14.145Z",
+      "id": 31
+    },
+    {
+      "dishId": 0,
+      "rating": "4",
+      "author": "sakshi",
+      "comment": "very good",
+      "date": "2021-02-10T14:32:41.342Z",
+      "id": 32
+    },
+    {
+      "dishId": 2,
+      "rating": "4",
+      "author": "pravin",
+      "comment": "delicious",
+      "date": "2021-02-10T14:38:24.041Z",
+      "id": 33
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Buffelo Milk",
+      "image": "images/buffelo_milk.jpg",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "It is richer in calcium and protein than cow's milk, and has less cholesterol and sodium. Buffalo milk is great for healthy bones, dental health and cardiovascular health. It is also a good source of minerals, such as magnesium, potassium and phosphorus."
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Ajinkya Bhalghare",
+      "image": "images/ajinkya.jpg",
+      "designation": "OWNER",
+      "abbr": "EC",
+      "featured": true,
+      "description": "Madhuban milk and Milk products dairy farm started from 3-aug-2020."
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    },
+    {
+      "firstname": "nikhil",
+      "lastname": "karkra",
+      "telnum": "468305744",
+      "email": "karkra.nikhil@gmail.com",
+      "agree": false,
+      "contactType": "Email",
+      "message": "feedback",
+      "id": 2
+    },
+    {
+      "firstname": "nikhil",
+      "lastname": "karkra",
+      "telnum": "468305744",
+      "email": "karkra.nikhil@gmail.com",
+      "agree": false,
+      "contactType": "Email",
+      "message": "qqqq",
+      "id": 3
+    },
+    {
+      "firstname": "nikhil",
+      "lastname": "karkra",
+      "telnum": "468305744",
+      "email": "karkra.nikhil@gmail.com",
+      "agree": false,
+      "contactType": "Email",
+      "message": "jkhkh",
+      "id": 4
+    }
+  ]
+}
