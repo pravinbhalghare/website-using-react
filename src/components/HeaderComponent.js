@@ -70,15 +70,8 @@ class Header extends Component {
                     </div>
                 </Navbar>
                 {/* <Jumbotron> */} 
-                    <div style={bannerImg}>
-                    <div className="container-fluid">
-                        <div className="row row-header">
-                            <div className="col-12 col-sm-6">
-                                <h1 style={{color:'red'}}></h1>
-                                <p style={{color:'blue'}}></p>
-                            </div>
-                        </div>
-                    </div>
+                    <div>
+                        <img src="assets/images/cover.jpg" class="img-fluid" alt="Responsive image" width="100%"></img>
                     </div>
                 {/* </Jumbotron> */}
                 <Modal isOpen={this.state.isModalOpen} toggle={this.toggleModal}>
